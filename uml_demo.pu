@@ -1,0 +1,7 @@
+@startmindmap my first mindmap
+* This is root node for mind map
+** This is the first level child #1
+** This is the first level child #2
+** This is the first level child #3
+*** This is the second level child #1
+@endmindmap
